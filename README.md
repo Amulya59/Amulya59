@@ -1,5 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?amulya59=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya59&label=Profile%20views&color=0e75b6&style=flat" alt="amulya59" /> </p>
 - 👋 Hi, I’m @Amulya59.
 - 👀 I’m interested in Programming,VFX video and photo editing.
 - 🌱 I’m currently learning Btech in Ai&DS.
