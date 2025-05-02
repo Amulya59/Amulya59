@@ -1,4 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya59&label=Profile%20views&color=0e75b6&style=flat" alt="amulya59" /> </p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amulya59&theme=dracula" alt="trophies" />
+</p>
+
 - 👋 Hi, I’m @Amulya59.
 - 👀 I’m interested in Programming,VFX video and photo editing.
 - 🌱 I’m currently learning Btech in Ai&DS.
