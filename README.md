@@ -3,6 +3,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=amulya59&theme=dracula" alt="trophies" />
 </p>
 
+
 - 👋 Hi, I’m @Amulya59.
 - 👀 I’m interested in Programming,VFX video and photo editing.
 - 🌱 I’m currently learning Btech in Ai&DS.
