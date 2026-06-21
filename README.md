@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @Amulya59.
 - 👀 I’m interested in Programming,VFX video and photo editing.
-- 🌱 I’m currently learning Btech in Ai&DS.
+- 🌱 I’m graduated in Ai&DS.
 - 💞️ I’m looking to collaborate on new projects for effecient outcomes.
 - 📫 Reach me on shreeamulya59@gmail.com 
 
